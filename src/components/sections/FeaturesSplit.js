@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Vídeos de ganhadores que utilizaram o método',
-    paragraph: ''
+    title: 'Olá pessoal o MÉTODO QUE INDICO é um sistema ÚNICO E VERDADEIRO  de fechamentos de jogos da Loto Fácil 100% viável e prático.',
+    paragraph: 'Vídeos de ganhadores que utilizaram o Método'
   };
 
   return (

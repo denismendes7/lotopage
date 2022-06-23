@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Único método com acesso vitalício e atualizado diariamente',
-    paragraph: ''
+    title: 'Já imaginou acertar 14 e 15 pontos com apenas 13 jogos altamente Eficientes?',
+    paragraph: 'Faça como milhares de pessoas que ja compraram e ganharam com 13 e 14 pontos.'
   };
 
   return (

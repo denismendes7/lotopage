@@ -54,7 +54,7 @@ const Cta = ({
         >
           <div className="cta-slogan">
             <h3 className="m-0">
-              Quer começar a ACERTAR na Loto?
+            Não estão vendendo sorte, mas sim um sistema que otimiza suas chances de fazer 14 pontos na LotoFácil !!!
               </h3>
           </div>
           <div className="cta-action">

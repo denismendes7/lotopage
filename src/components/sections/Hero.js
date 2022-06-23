@@ -61,7 +61,7 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Descubra o método de acertar pontos na Loto de maneira fácil e rápida <span className="text-color-primary"></span>
+            FAÇA PARTE AGORA DO MAIOR GRUPO DE GANHADORES DA LOTOFÁCIL DO BRASIL <span className="text-color-primary"></span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
